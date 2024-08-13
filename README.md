@@ -34,5 +34,5 @@ Below are some screenshots of the web application in action:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aseelbahakeem/spam-classification-svm.git
+   gh repo clone aseelbahakeem/Email-Spam-Classification-using-Support-Vector-Machine
    cd spam-classification-svm
