@@ -1,5 +1,5 @@
 # Email Spam Classification using Support Vector Machine (SVM)
-
+Part of National cybersecurity authority and KAUST Academy
 ## Project Overview
 
 This project aims to build an email spam classification system that can classify emails as either spam or not spam using a Support Vector Machine (SVM) and web integration to provide a user-friendly interface. 
